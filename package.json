@@ -12,7 +12,10 @@
     "model-api",
     "api"
   ],
-  "author": "Ian Mark Muninio <ianmuninio@gmail.com>",
+  "author": {
+    "name": "Ian Mark Muninio",
+    "email": "ianmuninio@gmail.com"
+  },
   "license": [
     {
       "type": "MIT",
