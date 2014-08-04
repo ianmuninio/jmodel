@@ -1,0 +1,42 @@
+{
+  "name": "jmodel",
+  "version": "0.0.1",
+  "description": "A Simple Model API",
+  "main": "./lib",
+  "scripts": {
+    "test": "make test-all"
+  },
+  "keywords": [
+    "jmodel",
+    "model",
+    "model-api",
+    "api"
+  ],
+  "author": "Ian Mark Muninio <ianmuninio@gmail.com>",
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/ianmuninio/jmodel/master/LICENSE"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.21.3",
+    "chai": "~1.9.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianmuninio/jmodel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ianmuninio/jmodel/issues"
+  },
+  "files": [
+    "lib",
+    "README.md",
+    "LICENSE"
+  ]
+}
